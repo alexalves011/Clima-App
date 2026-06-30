@@ -21,10 +21,5 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 🛠️ Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o seu editor de código favorito. Eu gosto de usar o [Visual Studio](https://code.visualstudio.com/), então recomendo que você também o use para ficarmos na mesma página. 
-
-- **Baixe o projeto e extraia os arquivos para a pasta de sua preferência** 
-- Abra a pasta no Visual Studio Code
 - Instale as dependências usando o `npm install`
 - Rode o app com o comando `npm run dev`
-- Seu app está rodando provavelmente em `http://localhost:5173/`
