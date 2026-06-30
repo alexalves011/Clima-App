@@ -13,7 +13,7 @@ function App() {
     async function fetchWeather() {
       try {
         const response = await fetch(
-          `https://api.hgbrasil.com/weather?format=json-cors&key=${API_KEY}&city_name=São Luís, MA`
+          `https://api.hgbrasil.com/weather?format=json-cors&key=${API_KEY}&city_name=São Paulo, SP`
         );
         const data = await response.json();
         if (data.results) {
